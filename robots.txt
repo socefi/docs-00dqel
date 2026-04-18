@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-7cmkkz.amomcp.ru/sitemap.xml
